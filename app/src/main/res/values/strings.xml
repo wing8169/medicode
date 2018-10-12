@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medicode</string>
+    <string name="action_settings">Settings</string>
+    <string name="tutorial1">Press \"Talk To Cat Doctor\" to start your evaluation!</string>
+    <string name="tutorial2">View your most recent evaluation, be alert on the emotional changes that might have happened on yourself.</string>
+    <string name="tutorial3">We will make a free appointment for you and specialist for face-to-face evaluation if you have scored less than 60% for continuously three days. Don\'t worry, you have the decision whether to accept treatments afterwards!</string>
+</resources>
